@@ -3,10 +3,10 @@
 <br/>
 
 
-<a href="https://www.linkedin.com/in/rushilpawaria">
+<a href="https://instagram.com/rushilpawaria">
 <img alt="Rushil Pawaria" width="22px" src="https://img.magnific.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_hybrid&w=740&q=80" />
 </a>
-<a href="https://www.instagram.com/rushilpawaria/">
+<a href="https://www.linkedin.com/in/rushilpawaria"">
 <img alt="Rushil Pawaria" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
 </a>
 <br />
