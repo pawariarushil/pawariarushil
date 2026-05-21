@@ -3,7 +3,7 @@
 <br/>
 
 
-<a href="https://www.linkedin.com/in/rushilpawaria?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+<a href="https://www.linkedin.com/in/rushilpawaria">
 <img align="left" alt="Rushil Pawaria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
