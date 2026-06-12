@@ -53,7 +53,7 @@ I actively solve coding problems to strengthen problem-solving and algorithmic t
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/pawariarushil
-- LinkedIn: www.linkedin.com/in/rushil-pawaria
+- LinkedIn: https://www.linkedin.com/in/rushilpawaria/
 
 ---
 
