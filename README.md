@@ -33,7 +33,6 @@ I'm a 3rd-year Computer Science student at VIT Vellore passionate about software
 - Git
 - GitHub
 - VS Code
-- IntelliJ IDEA
 
 ## 📈 Current Focus
 
