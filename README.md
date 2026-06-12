@@ -1,35 +1,60 @@
-### Hello World 👋 It's [Rushil!]
+# Hi, I'm Rushil Pawaria 👋
 
-<br/>
+### Computer Science Student | Backend Developer | DSA Enthusiast
 
+I'm a 3rd-year Computer Science student at VIT Vellore passionate about software development, backend engineering, and problem-solving.
 
-<a href="https://instagram.com/rushilpawaria">
-<img alt="Rushil Pawaria" width="22px" src="https://img.magnific.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_hybrid&w=740&q=80" />
-</a>
-<a href="https://www.linkedin.com/in/rushilpawaria"">
-<img alt="Rushil Pawaria" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
-</a>
-<br />
+## 🚀 About Me
 
-<br />
+- 🎓 B.Tech CSE @ VIT Vellore
+- 💻 Currently learning Backend Development with Java & Spring Boot
+- 🧠 Practicing Data Structures & Algorithms in C++
+- 🌱 Exploring System Design, Databases, and Scalable Applications
+- 🎯 Looking for Software Engineering and Backend Development Internships
 
-Hi,I'm Rushil Pawaria, a Full Stack Developer. Along the way i love solving problems.
+## 🛠️ Tech Stack
 
+### Languages
+- C++
+- Java
+- Python
+- JavaScript
+- C
 
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
 
+### Databases
+- MySQL
 
-**
-**Languages and Tools:**
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
 
+## 📈 Current Focus
 
-<code><img height="60" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
-<code><img height="60" src="https://images.icon-icons.com/844/PNG/512/CSS3_icon-icons.com_67069.png"></code>
-<code><img height="60" src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png"></code>
-<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></code>
-<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg"></code>
-<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/3840px-Node.js_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img height="60" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+- Advanced DSA and Competitive Programming
+- Java Backend Development
+- Spring Boot
+- REST APIs
+- Database Design
+- System Design Fundamentals
+
+## 📊 LeetCode
+
+I actively solve coding problems to strengthen problem-solving and algorithmic thinking.
+
+- LeetCode Solutions Repository: https://github.com/pawariarushil/leetcode-solutions
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/pawariarushil
+- LinkedIn: www.linkedin.com/in/rushil-pawaria
+
+---
+
+"First, solve the problem. Then, write the code."
